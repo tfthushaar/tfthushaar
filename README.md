@@ -9,28 +9,28 @@
 
 </div>
 
-Building things end-to-end: a Telegram bot that catches crop disease before Indian farmers can see it, a hybrid rules+LLM engine that reconciles payment settlements for Razorpay's AI Buildathon, a CRM running a real outdoor-advertising business, a fitness app on the Play Store. Comfortable across data pipelines, backend APIs, frontend UI and applied ML — not just writing code, but taking it to something that runs.
+I build full-stack products and reach for ML when it actually earns its place. I built a Telegram bot that catches crop disease before farmers can see it, a hybrid rules+LLM engine that reconciles payment settlements for Razorpay's AI Buildathon, a CRM that runs a real outdoor-advertising business, and a fitness app that's live on the Play Store. I don't stop at a demo — I take things through to a backend that holds up and a deployment that stays up.
 
-## Core Competencies
-
-What actually shipping these projects required, beyond the language list below:
+## In Practice
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-- **Multi-agent LLM orchestration** — coordinating adversarial and specialist agent pipelines (ADVOCATE's 5-agent legal pipeline, LangGraph-routed market analysts)
-- **Statistical rigor in ML evaluation** — held-out testing, confidence intervals, and deliberately trying to break your own system before trusting it
-- **Full product lifecycle shipping** — from a Play Store release build down to the backend APIs and data pipelines behind it
-- **Infrastructure as code & DevSecOps** — Terraform-provisioned AWS, Ansible config management, Jenkins blue/green pipelines, OWASP ZAP & Burp Suite security gates
+- I've built multi-agent LLM pipelines — ADVOCATE runs five agents arguing both sides of a legal case, and my trading platform routes through a LangGraph graph of specialist agents
+- Before I trust a model, I hold it to held-out statistical testing with confidence intervals — my Razorpay Buildathon project is basically me trying to prove my own model wrong, three times, before admitting it was right
+- I've taken a product all the way through myself: Play Store release build, the backend API behind it, the data pipeline feeding it
+- I provision infra with Terraform, configure it with Ansible, and run blue/green deploys through Jenkins with OWASP ZAP and Burp Suite as security gates
+- I build real-time systems — WebSocket notifications, Redis pub/sub, geo-based outbreak alerting
 
 </td>
 <td valign="top" width="50%">
 
-- **Real-time, event-driven systems** — WebSocket notifications, Redis pub/sub, geo-based outbreak alerting
-- **Third-party platform integration** — OAuth2 (Discord, Steam, Riot), Telegram Bot API, Gemini Vision, payment gateway APIs
-- **Role-based access & workflow modeling** — multi-tenant dashboards, approval chains, GST invoicing for a live business
-- **Applied computer vision & predictive ML** — segmentation, object detection, anomaly and risk prediction
+- I integrate third-party platforms myself — OAuth2 for Discord/Steam/Riot, the Telegram Bot API, Gemini Vision, payment gateway APIs
+- I design role-based systems — multi-tenant dashboards, approval chains, GST invoicing for a business that actually runs on it
+- I write my own backend when it matters — custom JWT auth with PBKDF2-SHA256 in OmniSkill rather than whatever a BaaS hands me for free, FastAPI/SQLModel and Flask services alongside it
+- I apply computer vision and predictive ML — segmentation, object detection, anomaly and risk prediction
+- I deploy differently depending on what the project needs — Vercel for Next.js apps, Cloudflare Workers for a static site, Supabase for Postgres + auth, and a hand-provisioned AWS EC2/ALB setup when the project was specifically about the infra
 
 </td>
 </tr>
@@ -39,27 +39,27 @@ What actually shipping these projects required, beyond the language list below:
 ## Featured Projects
 
 #### [Settlement Reconciliation Copilot](https://github.com/tfthushaar/razorpay_buildathon) — [live](https://razorpay-buildathon-five.vercel.app) · [research write-up](https://github.com/tfthushaar/CAPSTONE)
-Hybrid deterministic + LLM engine that reconciles Razorpay settlements against bank statements and ERP ledgers — built for Razorpay's AI Buildathon 2026 (Track 04). 615+ tests, and a held-out evaluation (420 judgements/cell) that measures exactly where rule-based matching silently fails and a model earns its place.
+I built a hybrid deterministic + LLM engine that reconciles Razorpay settlements against bank statements and ERP ledgers, for Razorpay's AI Buildathon 2026 (Track 04). I wrote 615+ tests and ran a held-out evaluation — 420 judgements per cell — to measure exactly where my rule-based matching silently fails and a model actually earns its place.
 <br>`Python` `TypeScript` `Docker` `pytest`
 
 #### [Metakai](https://github.com/tfthushaar/metakai) — [Android](https://github.com/tfthushaar/metakai/releases/latest) · [web / iOS](https://tfthushaar.github.io/metakai/app/)
-Private, ad-free fitness and nutrition tracker — log meals in plain language, sync with a watch, and get a goal date forecast from trend weight instead of day-to-day noise. Shipped to the Play Store.
+My own fitness and nutrition tracker, private and ad-free — log meals in plain language, sync with a watch, get a goal date forecast from trend weight instead of day-to-day noise. I shipped it to the Play Store.
 <br>`TypeScript` `Kotlin` `Python`
 
 #### [ADVOCATE](https://github.com/tfthushaar/ADVOCATE) — [live demo](https://advocate-pretrial-simulator.streamlit.app/)
-A five-agent adversarial pipeline that argues both sides of a wrongful-termination case, scores each on a structured legal rubric, and surfaces the strategy gaps one side never answered.
+I built a five-agent adversarial pipeline that argues both sides of a wrongful-termination case, scores each side on a structured legal rubric, and surfaces the gaps one side never answered.
 <br>`Python` `Streamlit` `Supabase`
 
 #### [Reklama CRM](https://github.com/tfthushaar/reklama-crm) — [live demo](https://reklama-crm-sandy.vercel.app)
-Role-based CRM for a real outdoor-advertising business — one system that takes a lead from first call to signed quote to GST invoice, across 5 permission levels.
+I built a role-based CRM for a real outdoor-advertising business — one system that takes a lead from first call to signed quote to GST invoice, across 5 permission levels.
 <br>`TypeScript` `React` `PostgreSQL`
 
 #### [CropRadar](https://github.com/KernelLex/CropRadar-01) *(built with KernelLex)*
-Telegram-first crop disease diagnosis for farmers: send a photo, get an AI diagnosis in English or Kannada, plus predictive outbreak alerts built from live weather and regional disease history.
+Telegram-first crop disease diagnosis for farmers. Send a photo, get an AI diagnosis in English or Kannada, plus predictive outbreak alerts I built from live weather and regional disease history.
 <br>`Python` `Gemini Vision` `Streamlit` `Telegram API`
 
 #### [Automated Secure Deployment](https://github.com/tfthushaar/library_management_devops)
-End-to-end AWS pipeline for a library portal — Terraform-provisioned blue/green EC2 behind an ALB, Ansible config, a Jenkins pipeline that rolls back on failed verification, and OWASP ZAP / Burp Suite security gates.
+I set up an end-to-end AWS pipeline for a library portal myself — Terraform-provisioned blue/green EC2 behind an ALB, Ansible config, a Jenkins pipeline that rolls back on failed verification, OWASP ZAP and Burp Suite as security gates.
 <br>`Terraform` `Ansible` `Jenkins` `AWS`
 
 ## Tech Stack
@@ -108,7 +108,7 @@ End-to-end AWS pipeline for a library portal — Terraform-provisioned blue/gree
 ---
 
 <div align="center">
-<i>Thanks for stopping by — always up for a good technical conversation.</i>
+<i>Thanks for reading this far — reach out if you want to talk shop.</i>
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=tfthushaar&style=flat-square&color=7aa2f7&label=Profile+views" alt="Profile views" />
 </div>
