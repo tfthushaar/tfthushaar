@@ -77,10 +77,9 @@ Full-stack and AI engineer, comfortable across the entire build: data pipelines,
 
 ### [Calibrated Autonomy for Financial Reconciliation](https://github.com/tfthushaar/CAPSTONE)
 [![Paper](https://img.shields.io/badge/Research_paper-1A1B27?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/tfthushaar/CAPSTONE/blob/main/PAPER.md)
-[![Live](https://img.shields.io/badge/Live_build-000000?style=flat-square&logo=vercel&logoColor=white)](https://razorpay-buildathon-five.vercel.app)
-[![Buildathon](https://img.shields.io/badge/Razorpay_Buildathon_2026-0C2451?style=flat-square&logo=razorpay&logoColor=white)](https://github.com/tfthushaar/razorpay_buildathon)
+[![Results](https://img.shields.io/badge/Results-7AA2F7?style=flat-square&logo=databricks&logoColor=white)](https://github.com/tfthushaar/CAPSTONE/blob/main/docs/RESULTS.md)
 
-My research capstone on where a language model earns its place in a domain whose ground truth is arithmetically derivable. A deterministic resolver handles settlement reconciliation at 20,513 tx/sec and a model sees only the residual — then I measured the difference on held-out phrasing: the best keyword rule I could write claims a fee was applied where the text explicitly denies it 38.3% of the time, against 0.2% for the model. 619 tests, CI that gates correctness, every figure reproducible without an API key. The same engine became my Razorpay AI Buildathon submission.
+My research capstone on where a language model earns its place in a domain whose ground truth is arithmetically derivable. A deterministic resolver handles settlement reconciliation at 20,513 tx/sec and a model sees only the residual — then I measured the difference on held-out phrasing: the best keyword rule I could write claims a fee was applied where the text explicitly denies it 38.3% of the time, against 0.2% for the model. 619 tests, CI that gates correctness, and every figure reproducible without an API key.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
