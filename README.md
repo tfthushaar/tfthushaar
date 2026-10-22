@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=Data+pipelines+%E2%86%92+backend+%E2%86%92+frontend+%E2%86%92+ML;Infrastructure+provisioned%2C+not+clicked+together;Measured%2C+tested%2C+and+actually+deployed" alt="Typing SVG" />
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/k-n-thushaar-rangan-4668352300)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thushaarrangan@gmail.com)
 ![Open to](https://img.shields.io/badge/Open_to-Full--time_%26_Freelance-9ECE6A?style=for-the-badge)
@@ -85,16 +83,16 @@ Full-stack and AI engineer, comfortable across the entire build: data pipelines,
 <table>
 <tr><td width="100%">
 
-### [Calibrated Autonomy for Financial Reconciliation](https://github.com/tfthushaar/CAPSTONE)
-[![Paper](https://img.shields.io/badge/Research_paper-1A1B27?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/tfthushaar/CAPSTONE/blob/main/PAPER.md)
-[![Results](https://img.shields.io/badge/Results-7AA2F7?style=flat-square&logo=databricks&logoColor=white)](https://github.com/tfthushaar/CAPSTONE/blob/main/docs/RESULTS.md)
+### [Lekhara](https://github.com/tfthushaar/lekhara)
 
-My research capstone on where a language model earns its place in a domain whose ground truth is arithmetically derivable. A deterministic resolver handles settlement reconciliation at 20,513 tx/sec and a model sees only the residual — then I measured the difference on held-out phrasing: the best keyword rule I could write claims a fee was applied where the text explicitly denies it 38.3% of the time, against 0.2% for the model. 619 tests, CI that gates correctness, and every figure reproducible without an API key.
+Compliance and money platform for Karnataka real-estate developers, covering everything that sits outside their ERP. It works out what a project is entitled to withdraw from its RERA escrow account, prepares the architect's, engineer's and CA's certificates and checks their figures agree before anything reaches the bank, keeps every K-RERA filing deadline with delay interest accruing against it, and catches tax traps before they become bills — the 80% registered-supplier test, development rights on unsold JDA stock, sales priced below guidance value, MSME payments nearing 45 days. Books arrive from Tally through a read-only connector, bank statements and GSTR-2B reconcile against units without ever counting the same rupee twice, and every figure traces back to the document it came from.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 </td></tr>
 <tr><td>
@@ -108,6 +106,20 @@ Enterprise HR software built for Indian companies, where every fact is dated —
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/-Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 ![SQLite](https://img.shields.io/badge/-libSQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</td></tr>
+<tr><td>
+
+### [Calibrated Autonomy for Financial Reconciliation](https://github.com/tfthushaar/CAPSTONE)
+[![Paper](https://img.shields.io/badge/Research_paper-1A1B27?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/tfthushaar/CAPSTONE/blob/main/PAPER.md)
+[![Results](https://img.shields.io/badge/Results-7AA2F7?style=flat-square&logo=databricks&logoColor=white)](https://github.com/tfthushaar/CAPSTONE/blob/main/docs/RESULTS.md)
+
+My research capstone on where a language model earns its place in a domain whose ground truth is arithmetically derivable. A deterministic resolver handles settlement reconciliation at 20,513 tx/sec and a model sees only the residual — then I measured the difference on held-out phrasing: the best keyword rule I could write claims a fee was applied where the text explicitly denies it 38.3% of the time, against 0.2% for the model. 619 tests, CI that gates correctness, and every figure reproducible without an API key.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 </td></tr>
 <tr><td>
@@ -137,18 +149,6 @@ Five coordinated agents run a wrongful-termination case as an adversarial trial:
 </td></tr>
 <tr><td>
 
-### [Reklama CRM](https://github.com/tfthushaar/reklama-crm)
-[![Live](https://img.shields.io/badge/Live_demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://reklama-crm-sandy.vercel.app)
-
-One system for an outdoor-advertising business that replaces a spreadsheet of sites, a phone full of WhatsApp threads and a separate billing package: every screen knows which days and slots are free, a quote becomes a booking and a booking becomes a GST invoice without anything typed twice, and each of five roles gets a home screen answering only what needs them today.
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-</td></tr>
-<tr><td>
-
 ### [CropRadar](https://github.com/KernelLex/CropRadar-01) · *team project*
 [![Telegram](https://img.shields.io/badge/Telegram_bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://github.com/KernelLex/CropRadar-01)
 
@@ -161,16 +161,14 @@ Crop disease intelligence delivered through a messaging app farmers already use:
 </td></tr>
 <tr><td>
 
-### [Lekhara](https://github.com/tfthushaar/lekhara)
+### [Reklama CRM](https://github.com/tfthushaar/reklama-crm)
+[![Live](https://img.shields.io/badge/Live_demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://reklama-crm-sandy.vercel.app)
 
-Compliance and money platform for Karnataka real-estate developers, covering everything that sits outside their ERP. It works out what a project is entitled to withdraw from its RERA escrow account, prepares the architect's, engineer's and CA's certificates and checks their figures agree before anything reaches the bank, keeps every K-RERA filing deadline with delay interest accruing against it, and catches tax traps before they become bills — the 80% registered-supplier test, development rights on unsold JDA stock, sales priced below guidance value, MSME payments nearing 45 days. Books arrive from Tally through a read-only connector, bank statements and GSTR-2B reconcile against units without ever counting the same rupee twice, and every figure traces back to the document it came from.
+One system for an outdoor-advertising business that replaces a spreadsheet of sites, a phone full of WhatsApp threads and a separate billing package: every screen knows which days and slots are free, a quote becomes a booking and a booking becomes a GST invoice without anything typed twice, and each of five roles gets a home screen answering only what needs them today.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td></tr>
 </table>
