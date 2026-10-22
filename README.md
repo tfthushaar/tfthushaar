@@ -22,6 +22,7 @@ Full-stack and AI engineer, comfortable across the entire build: data pipelines,
 ![](https://img.shields.io/badge/LLM_Orchestration-7AA2F7?style=flat-square)
 ![](https://img.shields.io/badge/RAG-7AA2F7?style=flat-square)
 ![](https://img.shields.io/badge/Prompt_Engineering-7AA2F7?style=flat-square)
+![](https://img.shields.io/badge/Document_AI_%26_Extraction-7AA2F7?style=flat-square)
 ![](https://img.shields.io/badge/Model_Evaluation_%26_Benchmarking-7AA2F7?style=flat-square)
 ![](https://img.shields.io/badge/Computer_Vision-7AA2F7?style=flat-square)
 ![](https://img.shields.io/badge/Predictive_Modeling-7AA2F7?style=flat-square)
@@ -34,8 +35,12 @@ Full-stack and AI engineer, comfortable across the entire build: data pipelines,
 ![](https://img.shields.io/badge/REST_API_Design-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Auth_%26_Authorization-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Role--Based_Access_Control-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/Multi--Tenant_Architecture-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Relational_Data_Modeling-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Temporal_%26_Audit_Data-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/Schema_Migrations-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/Data_Ingestion_%26_ETL-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/Financial_Reconciliation-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Real--Time_Systems-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Pub%2FSub_Messaging-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Background_Jobs-BB9AF7?style=flat-square)
@@ -56,8 +61,11 @@ Full-stack and AI engineer, comfortable across the entire build: data pipelines,
 **Security & Quality**
 <br>
 ![](https://img.shields.io/badge/Web_App_Security_Testing-F7768E?style=flat-square)
-![](https://img.shields.io/badge/Penetration_Testing_Tooling-F7768E?style=flat-square)
-![](https://img.shields.io/badge/Network_Traffic_Analysis-F7768E?style=flat-square)
+![](https://img.shields.io/badge/MFA_%26_Session_Security-F7768E?style=flat-square)
+![](https://img.shields.io/badge/Tenant_Data_Isolation-F7768E?style=flat-square)
+![](https://img.shields.io/badge/Audit_Logging_%26_Traceability-F7768E?style=flat-square)
+![](https://img.shields.io/badge/Secret_Scanning-F7768E?style=flat-square)
+![](https://img.shields.io/badge/Incident_Response-F7768E?style=flat-square)
 ![](https://img.shields.io/badge/Automated_Test_Suites-F7768E?style=flat-square)
 ![](https://img.shields.io/badge/Accessibility_(WCAG_2.1_AA)-F7768E?style=flat-square)
 
@@ -66,6 +74,8 @@ Full-stack and AI engineer, comfortable across the entire build: data pipelines,
 ![](https://img.shields.io/badge/Mobile_App_Release-E0AF68?style=flat-square)
 ![](https://img.shields.io/badge/PWA_Delivery-E0AF68?style=flat-square)
 ![](https://img.shields.io/badge/Multi--Platform_Deployment-E0AF68?style=flat-square)
+![](https://img.shields.io/badge/Regulatory_%26_Tax_Compliance-E0AF68?style=flat-square)
+![](https://img.shields.io/badge/Localization_(i18n)-E0AF68?style=flat-square)
 ![](https://img.shields.io/badge/Technical_Documentation-E0AF68?style=flat-square)
 
 <br>
@@ -151,14 +161,16 @@ Crop disease intelligence delivered through a messaging app farmers already use:
 </td></tr>
 <tr><td>
 
-### [Automated Secure Deployment](https://github.com/tfthushaar/library_management_devops)
+### [Lekhara](https://github.com/tfthushaar/lekhara)
 
-A full DevSecOps pipeline on AWS: Terraform provisions blue and green EC2 instances behind an ALB with IAM roles and CloudWatch dashboards, Ansible configures Apache and Gunicorn, and a Jenkins pipeline builds, security-tests, deploys to green, verifies it, switches traffic — and rolls back to blue when verification fails. OWASP ZAP runs automated baseline scans, with Burp Suite and Wireshark evidence alongside.
+Compliance and money platform for Karnataka real-estate developers, covering everything that sits outside their ERP. It works out what a project is entitled to withdraw from its RERA escrow account, prepares the architect's, engineer's and CA's certificates and checks their figures agree before anything reaches the bank, keeps every K-RERA filing deadline with delay interest accruing against it, and catches tax traps before they become bills — the 80% registered-supplier test, development rights on unsold JDA stock, sales priced below guidance value, MSME payments nearing 45 days. Books arrive from Tally through a read-only connector, bank statements and GSTR-2B reconcile against units without ever counting the same rupee twice, and every figure traces back to the document it came from.
 
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td></tr>
 </table>
@@ -212,12 +224,6 @@ A full DevSecOps pipeline on AWS: Terraform provisions blue and green EC2 instan
 </table>
 
 <img src="https://streak-stats.demolab.com/?user=tfthushaar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tfthushaar/tfthushaar/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tfthushaar/tfthushaar/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/tfthushaar/tfthushaar/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-</picture>
 
 <div align="center">
 <br>
