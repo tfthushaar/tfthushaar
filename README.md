@@ -36,6 +36,8 @@ Full-stack and AI engineer, comfortable across the entire build: data pipelines,
 ![](https://img.shields.io/badge/Multi--Tenant_Architecture-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Relational_Data_Modeling-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Temporal_%26_Audit_Data-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/State_Persistence_%26_Versioning-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/Simulation_%26_Systems_Design-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Schema_Migrations-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Data_Ingestion_%26_ETL-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Financial_Reconciliation-BB9AF7?style=flat-square)
@@ -72,6 +74,7 @@ Full-stack and AI engineer, comfortable across the entire build: data pipelines,
 ![](https://img.shields.io/badge/Mobile_App_Release-E0AF68?style=flat-square)
 ![](https://img.shields.io/badge/PWA_Delivery-E0AF68?style=flat-square)
 ![](https://img.shields.io/badge/Multi--Platform_Deployment-E0AF68?style=flat-square)
+![](https://img.shields.io/badge/Game_Engine_Modding-E0AF68?style=flat-square)
 ![](https://img.shields.io/badge/Regulatory_%26_Tax_Compliance-E0AF68?style=flat-square)
 ![](https://img.shields.io/badge/Localization_(i18n)-E0AF68?style=flat-square)
 ![](https://img.shields.io/badge/Technical_Documentation-E0AF68?style=flat-square)
@@ -161,6 +164,17 @@ Crop disease intelligence delivered through a messaging app farmers already use:
 </td></tr>
 <tr><td>
 
+### [Cyberbane](https://github.com/tfthushaar/CyberBane) · *in development*
+
+A reputation overhaul for Cyberpunk 2077, where Night City forms an opinion of you and acts on it. Two scores — how widely you're known and how frightening you are — spread outward from where things actually happened, so you can be a legend in Watson while Pacifica has never heard of you. Each gang weighs what it values (Maelstrom chrome, the Animals strength, the Voodoo Boys netrunning), squads lose their nerve and break, and whoever escapes can come back as a named rival that references your last encounter. Built on RED4ext and Codeware with a persistent per-save system behind a cross-save service, an internal event bus, versioned config, and a scoring engine that explains every reaction back to the thing you did.
+
+![Redscript](https://img.shields.io/badge/-Redscript-FCEE0A?style=flat-square&logo=cyberpunk2077&logoColor=black)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![RED4ext](https://img.shields.io/badge/-RED4ext-1A1B27?style=flat-square)
+
+</td></tr>
+<tr><td>
+
 ### [Reklama CRM](https://github.com/tfthushaar/reklama-crm)
 [![Live](https://img.shields.io/badge/Live_demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://reklama-crm-sandy.vercel.app)
 
@@ -180,7 +194,8 @@ One system for an outdoor-advertising business that replaces a spreadsheet of si
 <table>
 <tr>
 <td><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=python,ts,js,html,css,kotlin,c" alt="" /></td>
+<td><img src="https://skillicons.dev/icons?i=python,ts,js,html,css,kotlin,c,powershell" alt="" />
+<img src="https://img.shields.io/badge/Redscript-FCEE0A?style=flat-square&logo=cyberpunk2077&logoColor=black" alt="" /></td>
 </tr>
 <tr>
 <td><b>Frontend</b></td>
