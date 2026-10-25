@@ -8,7 +8,7 @@
 
 </div>
 
-Full-stack and AI engineer, comfortable across the entire build: data pipelines, backend systems, frontend interfaces, applied machine learning, and the infrastructure underneath. I can model a domain into a schema, put a tested API in front of it, build the interface people actually use, and provision and deploy the whole thing — then show it works with evaluation and test coverage rather than a demo.
+Full-stack and AI engineer. I work across data pipelines, backend systems, frontend interfaces, applied machine learning and the infrastructure underneath. I model a domain into a schema, put a tested API in front of it, build the interface on top, then provision and deploy the result. Evaluation and test coverage come with it.
 
 <br>
 
@@ -88,7 +88,7 @@ Full-stack and AI engineer, comfortable across the entire build: data pipelines,
 
 ### [Lekhara](https://github.com/tfthushaar/lekhara)
 
-Compliance and money platform for Karnataka real-estate developers, covering everything that sits outside their ERP. It works out what a project is entitled to withdraw from its RERA escrow account, prepares the architect's, engineer's and CA's certificates and checks their figures agree before anything reaches the bank, keeps every K-RERA filing deadline with delay interest accruing against it, and catches tax traps before they become bills — the 80% registered-supplier test, development rights on unsold JDA stock, sales priced below guidance value, MSME payments nearing 45 days. Books arrive from Tally through a read-only connector, bank statements and GSTR-2B reconcile against units without ever counting the same rupee twice, and every figure traces back to the document it came from.
+Compliance and money platform for Karnataka real-estate developers, covering everything that sits outside their ERP. It works out what a project is entitled to withdraw from its RERA escrow account, prepares the architect's, engineer's and CA's certificates and checks their figures agree before anything reaches the bank, keeps every K-RERA filing deadline with delay interest accruing against it, and catches tax traps before they become bills, among them the 80% registered-supplier test, development rights on unsold JDA stock, sales priced below guidance value and MSME payments nearing 45 days. Books arrive from Tally through a read-only connector, bank statements and GSTR-2B reconcile against units without ever counting the same rupee twice, and every figure traces back to the document it came from.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -100,10 +100,10 @@ Compliance and money platform for Karnataka real-estate developers, covering eve
 </td></tr>
 <tr><td>
 
-### [HRMS — HR module of an ERP](https://github.com/KernelLex/hrms) · *major contributor*
+### [HRMS](https://github.com/KernelLex/hrms) · *major contributor*
 [![Live](https://img.shields.io/badge/Live_demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://hrms-amogh24.vercel.app)
 
-Enterprise HR software built for Indian companies, where every fact is dated — you can read anyone's pay, position or address as it stood on any past date, and a change applies from the day it takes effect without destroying what came before. Indian payroll and income tax with Form 16, a leave engine with accrual ledgers and per-location holiday calendars, headcount requests routed through manager/HR/finance approval, idempotent spreadsheet import, and WCAG 2.1 AA checked automatically on every change.
+The HR module of an ERP, built for Indian companies. Every fact is dated, so you can read anyone's pay, position or address as it stood on any past date, and a change applies from the day it takes effect without destroying what came before. Indian payroll and income tax with Form 16, a leave engine with accrual ledgers and per-location holiday calendars, headcount requests routed through manager/HR/finance approval, idempotent spreadsheet import, and WCAG 2.1 AA checked automatically on every change.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -117,7 +117,7 @@ Enterprise HR software built for Indian companies, where every fact is dated —
 [![Paper](https://img.shields.io/badge/Research_paper-1A1B27?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/tfthushaar/CAPSTONE/blob/main/PAPER.md)
 [![Results](https://img.shields.io/badge/Results-7AA2F7?style=flat-square&logo=databricks&logoColor=white)](https://github.com/tfthushaar/CAPSTONE/blob/main/docs/RESULTS.md)
 
-My research capstone on where a language model earns its place in a domain whose ground truth is arithmetically derivable. A deterministic resolver handles settlement reconciliation at 20,513 tx/sec and a model sees only the residual — then I measured the difference on held-out phrasing: the best keyword rule I could write claims a fee was applied where the text explicitly denies it 38.3% of the time, against 0.2% for the model. 619 tests, CI that gates correctness, and every figure reproducible without an API key.
+My research capstone on where a language model earns its place in a domain whose ground truth is arithmetically derivable. A deterministic resolver handles settlement reconciliation at 20,513 tx/sec and the model sees only the residual. I measured the difference on held-out phrasing: the best keyword rule I could write claims a fee was applied where the text explicitly denies it in 38.3% of judgements, against 0.2% for the model. 619 tests, CI that gates correctness, and every figure reproducible without an API key.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -132,7 +132,7 @@ My research capstone on where a language model earns its place in a domain whose
 [![Release](https://img.shields.io/badge/v0.1.0-9ECE6A?style=flat-square)](https://github.com/tfthushaar/CyberBane/releases)
 [![Demo](https://img.shields.io/badge/Watch_demo-FCEE0A?style=flat-square&logo=youtube&logoColor=black)](https://github.com/tfthushaar/CyberBane/blob/main/docs/assets/cyberbane.mp4)
 
-A reputation overhaul for Cyberpunk 2077, released on Nexus. Night City forms an opinion of you from what you actually do and acts on it: renown and dread spread outward from where things happened, so you can be a legend in Watson while Pacifica has never heard of you, while a separate conduct axis reads *how* you work — clean and controlled gets you treated as a professional, gunning down civilians gets you read as a mad dog one edge from cyberpsycho. Each gang weighs what it values, masks and gang colours make you harder to place, broken squads flee, and whoever escapes returns as a named rival who climbed the ranks offscreen while you were busy. Feared gangs pay tribute or send hit squads, vendors move their prices, and you can buy your way out of a vendetta from the Hub. Under it: a layered pipeline from gameplay signals to a scoring model to a reaction director to live NPC spawning, persistent per-save state behind a cross-save service, a public API for other mods, and automatic stand-down when it detects an overlapping mod installed.
+A reputation overhaul for Cyberpunk 2077, released on Nexus. Night City forms an opinion of you from what you do and acts on it. Renown and dread spread outward from where things happened, so you can be a legend in Watson while Pacifica has never heard of you. A separate conduct axis reads how you work: clean, controlled jobs get you treated as a professional, while civilian kills and brutal finishers get you read as a mad dog one edge from cyberpsycho. Each gang weighs what it values, masks and gang colours make you harder to place, broken squads flee, and whoever escapes returns as a named rival who climbed the ranks offscreen while you were busy. Feared gangs pay tribute or send hit squads, vendors move their prices, and you can buy your way out of a vendetta from the Hub. Inside, gameplay signals feed a scoring model, which drives a reaction director that spawns live NPCs, over persistent per-save state behind a cross-save service. It exposes a public API for other mods and stands its overlapping systems down when it detects a conflicting mod installed.
 
 ![Redscript](https://img.shields.io/badge/-Redscript-FCEE0A?style=flat-square&logo=cyberpunk2077&logoColor=black)
 ![RED4ext](https://img.shields.io/badge/-RED4ext_%2F_Codeware-1A1B27?style=flat-square)
@@ -145,7 +145,7 @@ A reputation overhaul for Cyberpunk 2077, released on Nexus. Night City forms an
 [![Android](https://img.shields.io/badge/Download-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/tfthushaar/metakai/releases/latest)
 [![Web](https://img.shields.io/badge/Web_%26_iOS-7AA2F7?style=flat-square&logo=pwa&logoColor=white)](https://tfthushaar.github.io/metakai/app/)
 
-A private, ad-free fitness and nutrition app with no account and no ads — meals logged in plain words ("2 rotis, 1 katori dal and 150g paneer") become itemised macros, 876 exercises back a workout logger with PR detection, and a goal date is forecast from trend weight rather than daily noise. Works offline, syncs with a watch, and ships as an Android release and a web/iOS app.
+A private fitness and nutrition app that needs no account and carries no ads. Meals logged in plain words ("2 rotis, 1 katori dal and 150g paneer") become itemised macros, 876 exercises back a workout logger with PR detection, and a goal date is forecast from trend weight instead of daily noise. Works offline, syncs with a watch, and ships as an Android release and a web/iOS app.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -169,7 +169,7 @@ Five coordinated agents run a wrongful-termination case as an adversarial trial:
 ### [CropRadar](https://github.com/KernelLex/CropRadar-01) · *team project*
 [![Telegram](https://img.shields.io/badge/Telegram_bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://github.com/KernelLex/CropRadar-01)
 
-Crop disease intelligence delivered through a messaging app farmers already use: share a location and get a predictive risk report built from live weather and NDVI vegetation stress before symptoms appear, then send a leaf photo for a vision diagnosis with remedy and prevention in English or ಕನ್ನಡ. Reports are geo-tagged, and three matching cases within 50 km broadcast an outbreak warning to nearby farmers.
+Crop disease intelligence delivered through a messaging app farmers already use. Share a location and a risk report comes back, built from live weather and NDVI vegetation stress before symptoms appear. Send a leaf photo and it returns a vision diagnosis with remedy and prevention in English or ಕನ್ನಡ. Reports are geo-tagged, and three matching cases within 50 km broadcast an outbreak warning to nearby farmers.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini_Vision-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
@@ -181,7 +181,7 @@ Crop disease intelligence delivered through a messaging app farmers already use:
 ### [Reklama CRM](https://github.com/tfthushaar/reklama-crm)
 [![Live](https://img.shields.io/badge/Live_demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://reklama-crm-sandy.vercel.app)
 
-One system for an outdoor-advertising business that replaces a spreadsheet of sites, a phone full of WhatsApp threads and a separate billing package: every screen knows which days and slots are free, a quote becomes a booking and a booking becomes a GST invoice without anything typed twice, and each of five roles gets a home screen answering only what needs them today.
+One system for an outdoor-advertising business, replacing a spreadsheet of sites, a phone full of WhatsApp threads and a separate billing package. Every screen knows which days and slots are free, a quote becomes a booking and a booking becomes a GST invoice without anything typed twice, and each of five roles gets a home screen answering only what needs them today.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
