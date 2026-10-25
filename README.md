@@ -127,6 +127,20 @@ My research capstone on where a language model earns its place in a domain whose
 </td></tr>
 <tr><td>
 
+### [Cyberbane](https://github.com/tfthushaar/CyberBane)
+[![Nexus](https://img.shields.io/badge/Nexus_Mods-D98F40?style=flat-square&logo=nexusmods&logoColor=white)](https://www.nexusmods.com/cyberpunk2077/mods/35847)
+[![Release](https://img.shields.io/badge/v0.1.0-9ECE6A?style=flat-square)](https://github.com/tfthushaar/CyberBane/releases)
+[![Demo](https://img.shields.io/badge/Watch_demo-FCEE0A?style=flat-square&logo=youtube&logoColor=black)](https://github.com/tfthushaar/CyberBane/blob/main/docs/assets/cyberbane.mp4)
+
+A reputation overhaul for Cyberpunk 2077, released on Nexus. Night City forms an opinion of you from what you actually do and acts on it: renown and dread spread outward from where things happened, so you can be a legend in Watson while Pacifica has never heard of you, while a separate conduct axis reads *how* you work — clean and controlled gets you treated as a professional, gunning down civilians gets you read as a mad dog one edge from cyberpsycho. Each gang weighs what it values, masks and gang colours make you harder to place, broken squads flee, and whoever escapes returns as a named rival who climbed the ranks offscreen while you were busy. Feared gangs pay tribute or send hit squads, vendors move their prices, and you can buy your way out of a vendetta from the Hub. Under it: a layered pipeline from gameplay signals to a scoring model to a reaction director to live NPC spawning, persistent per-save state behind a cross-save service, a public API for other mods, and automatic stand-down when it detects an overlapping mod installed.
+
+![Redscript](https://img.shields.io/badge/-Redscript-FCEE0A?style=flat-square&logo=cyberpunk2077&logoColor=black)
+![RED4ext](https://img.shields.io/badge/-RED4ext_%2F_Codeware-1A1B27?style=flat-square)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+</td></tr>
+<tr><td>
+
 ### [Metakai](https://github.com/tfthushaar/metakai)
 [![Android](https://img.shields.io/badge/Download-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/tfthushaar/metakai/releases/latest)
 [![Web](https://img.shields.io/badge/Web_%26_iOS-7AA2F7?style=flat-square&logo=pwa&logoColor=white)](https://tfthushaar.github.io/metakai/app/)
@@ -160,17 +174,6 @@ Crop disease intelligence delivered through a messaging app farmers already use:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini_Vision-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-</td></tr>
-<tr><td>
-
-### [Cyberbane](https://github.com/tfthushaar/CyberBane) · *in development*
-
-A reputation overhaul for Cyberpunk 2077, where Night City forms an opinion of you and acts on it. Two scores — how widely you're known and how frightening you are — spread outward from where things actually happened, so you can be a legend in Watson while Pacifica has never heard of you. Each gang weighs what it values (Maelstrom chrome, the Animals strength, the Voodoo Boys netrunning), squads lose their nerve and break, and whoever escapes can come back as a named rival that references your last encounter. Built on RED4ext and Codeware with a persistent per-save system behind a cross-save service, an internal event bus, versioned config, and a scoring engine that explains every reaction back to the thing you did.
-
-![Redscript](https://img.shields.io/badge/-Redscript-FCEE0A?style=flat-square&logo=cyberpunk2077&logoColor=black)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![RED4ext](https://img.shields.io/badge/-RED4ext-1A1B27?style=flat-square)
 
 </td></tr>
 <tr><td>
