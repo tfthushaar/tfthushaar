@@ -38,6 +38,7 @@ Full-stack and AI engineer. I work across data pipelines, backend systems, front
 ![](https://img.shields.io/badge/Temporal_%26_Audit_Data-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/State_Persistence_%26_Versioning-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Simulation_%26_Systems_Design-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/NPC_Behaviour_Design-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Schema_Migrations-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Data_Ingestion_%26_ETL-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Financial_Reconciliation-BB9AF7?style=flat-square)
@@ -75,6 +76,7 @@ Full-stack and AI engineer. I work across data pipelines, backend systems, front
 ![](https://img.shields.io/badge/PWA_Delivery-E0AF68?style=flat-square)
 ![](https://img.shields.io/badge/Multi--Platform_Deployment-E0AF68?style=flat-square)
 ![](https://img.shields.io/badge/Game_Engine_Modding-E0AF68?style=flat-square)
+![](https://img.shields.io/badge/Release_Engineering-E0AF68?style=flat-square)
 ![](https://img.shields.io/badge/Regulatory_%26_Tax_Compliance-E0AF68?style=flat-square)
 ![](https://img.shields.io/badge/Localization_(i18n)-E0AF68?style=flat-square)
 ![](https://img.shields.io/badge/Technical_Documentation-E0AF68?style=flat-square)
@@ -96,6 +98,21 @@ Compliance and money platform for Karnataka real-estate developers, covering eve
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td></tr>
+<tr><td>
+
+### [Cyberbane](https://github.com/tfthushaar/CyberBane)
+[![Nexus](https://img.shields.io/badge/Nexus_Mods-D98F40?style=flat-square&logo=nexusmods&logoColor=white)](https://www.nexusmods.com/cyberpunk2077/mods/35847)
+[![Downloads](https://img.shields.io/badge/Downloads-4.5k%2B-D98F40?style=flat-square&logo=nexusmods&logoColor=white)](https://www.nexusmods.com/cyberpunk2077/mods/35847)
+[![Release](https://img.shields.io/badge/v1.1.7-9ECE6A?style=flat-square)](https://github.com/tfthushaar/CyberBane/releases)
+[![Demo](https://img.shields.io/badge/Watch_demo-FCEE0A?style=flat-square&logo=youtube&logoColor=black)](https://github.com/tfthushaar/CyberBane/blob/main/docs/assets/cyberbane.mp4)
+
+A reputation overhaul for Cyberpunk 2077, past 4,500 downloads on Nexus. Renown and dread spread district by district, so you can be a legend in Watson while Pacifica has never heard of you, and a conduct axis tracks how you work: clean jobs get you treated as a professional, civilian kills get you talked about the way the street talks about cyberpsychos. Reputation travels on witnesses, so leaving nobody alive means the street never learns who did it and the district only gets a name for something it cannot identify. Wounded enemies flee, and anyone who escapes, or who you beat and spared, returns as a named Rival that took the mercy personally, climbed the ranks offscreen, and wears the burns or blade marks you left on it. Rivals fill each gang's leader and lieutenant chairs, and killing a leader promotes the next in line. Push a crew far enough and they stop sending squads: four named enforcers drive over with the game's own boss bar, a heavy who breaks your guard, a shooter who flushes you out of cover, a blade on a Sandevistan and a netrunner who takes your weapon off you, each seat filled by a real member of that gang and fighting as a squad. 513 KB of Redscript across 71 files, wiring gameplay signals into a scoring model, a reaction director, vehicle arrival and live NPC spawning, on persistent per-save state with a public API for other mods.
+
+![Redscript](https://img.shields.io/badge/-Redscript-FCEE0A?style=flat-square&logo=cyberpunk2077&logoColor=black)
+![RED4ext](https://img.shields.io/badge/-RED4ext_%2F_Codeware-1A1B27?style=flat-square)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 </td></tr>
 <tr><td>
@@ -123,20 +140,6 @@ My research capstone on where a language model earns its place in a domain whose
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-
-</td></tr>
-<tr><td>
-
-### [Cyberbane](https://github.com/tfthushaar/CyberBane)
-[![Nexus](https://img.shields.io/badge/Nexus_Mods-D98F40?style=flat-square&logo=nexusmods&logoColor=white)](https://www.nexusmods.com/cyberpunk2077/mods/35847)
-[![Release](https://img.shields.io/badge/v0.1.0-9ECE6A?style=flat-square)](https://github.com/tfthushaar/CyberBane/releases)
-[![Demo](https://img.shields.io/badge/Watch_demo-FCEE0A?style=flat-square&logo=youtube&logoColor=black)](https://github.com/tfthushaar/CyberBane/blob/main/docs/assets/cyberbane.mp4)
-
-A reputation overhaul for Cyberpunk 2077, released on Nexus. Night City forms an opinion of you from what you do and acts on it. Renown and dread spread outward from where things happened, so you can be a legend in Watson while Pacifica has never heard of you. A separate conduct axis reads how you work: clean, controlled jobs get you treated as a professional, while civilian kills and brutal finishers get you read as a mad dog one edge from cyberpsycho. Each gang weighs what it values, masks and gang colours make you harder to place, broken squads flee, and whoever escapes returns as a named rival who climbed the ranks offscreen while you were busy. Feared gangs pay tribute or send hit squads, vendors move their prices, and you can buy your way out of a vendetta from the Hub. Inside, gameplay signals feed a scoring model, which drives a reaction director that spawns live NPCs, over persistent per-save state behind a cross-save service. It exposes a public API for other mods and stands its overlapping systems down when it detects a conflicting mod installed.
-
-![Redscript](https://img.shields.io/badge/-Redscript-FCEE0A?style=flat-square&logo=cyberpunk2077&logoColor=black)
-![RED4ext](https://img.shields.io/badge/-RED4ext_%2F_Codeware-1A1B27?style=flat-square)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 </td></tr>
 <tr><td>
