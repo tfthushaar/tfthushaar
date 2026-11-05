@@ -8,7 +8,7 @@
 
 </div>
 
-Full-stack and AI engineer. I work across data pipelines, backend systems, frontend interfaces, applied machine learning and the infrastructure underneath. I model a domain into a schema, put a tested API in front of it, build the interface on top, then provision and deploy the result. Evaluation and test coverage come with it.
+Full-stack and AI engineer. Most of what I build falls into two halves. One is products with a hard domain underneath: I take something like escrow compliance or dated payroll records, model it into a schema, put a tested API over it, build the interface on top, then provision and deploy it. The other is real-time systems, where state has to survive, behaviour has to hold up under play, and there is no official API to build against. Both halves get the same treatment, which is measurement over assertion: held-out evaluation where a model is involved, tests that gate the build, and numbers that trace back to where they came from.
 
 <br>
 
@@ -23,6 +23,7 @@ Full-stack and AI engineer. I work across data pipelines, backend systems, front
 ![](https://img.shields.io/badge/Document_AI_%26_Extraction-7AA2F7?style=flat-square)
 ![](https://img.shields.io/badge/Model_Evaluation_%26_Benchmarking-7AA2F7?style=flat-square)
 ![](https://img.shields.io/badge/Computer_Vision-7AA2F7?style=flat-square)
+![](https://img.shields.io/badge/Geospatial_Analysis-7AA2F7?style=flat-square)
 ![](https://img.shields.io/badge/Predictive_Modeling-7AA2F7?style=flat-square)
 ![](https://img.shields.io/badge/Anomaly_Detection-7AA2F7?style=flat-square)
 ![](https://img.shields.io/badge/Statistical_Testing-7AA2F7?style=flat-square)
@@ -31,12 +32,14 @@ Full-stack and AI engineer. I work across data pipelines, backend systems, front
 **Backend & Systems**
 <br>
 ![](https://img.shields.io/badge/REST_API_Design-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/GraphQL_APIs-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Auth_%26_Authorization-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Role--Based_Access_Control-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Multi--Tenant_Architecture-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Relational_Data_Modeling-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Temporal_%26_Audit_Data-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/State_Persistence_%26_Versioning-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/Binary_Formats_%26_Integrity-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Simulation_%26_Systems_Design-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/NPC_Behaviour_Design-BB9AF7?style=flat-square)
 ![](https://img.shields.io/badge/Schema_Migrations-BB9AF7?style=flat-square)
@@ -68,6 +71,7 @@ Full-stack and AI engineer. I work across data pipelines, backend systems, front
 ![](https://img.shields.io/badge/Secret_Scanning-F7768E?style=flat-square)
 ![](https://img.shields.io/badge/Incident_Response-F7768E?style=flat-square)
 ![](https://img.shields.io/badge/Automated_Test_Suites-F7768E?style=flat-square)
+![](https://img.shields.io/badge/Reproducible_Research-F7768E?style=flat-square)
 ![](https://img.shields.io/badge/Accessibility_(WCAG_2.1_AA)-F7768E?style=flat-square)
 
 **Product & Delivery**
@@ -194,30 +198,6 @@ Five coordinated agents run a wrongful-termination case as an adversarial trial:
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td></tr>
-<tr><td>
-
-### [CropRadar](https://github.com/KernelLex/CropRadar-01) · *team project*
-[![Telegram](https://img.shields.io/badge/Telegram_bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://github.com/KernelLex/CropRadar-01)
-
-Crop disease intelligence delivered through a messaging app farmers already use. Share a location and a risk report comes back, built from live weather and NDVI vegetation stress before symptoms appear. Send a leaf photo and it returns a vision diagnosis with remedy and prevention in English or ಕನ್ನಡ. Reports are geo-tagged, and three matching cases within 50 km broadcast an outbreak warning to nearby farmers.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini_Vision-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-</td></tr>
-<tr><td>
-
-### [Reklama CRM](https://github.com/tfthushaar/reklama-crm)
-[![Live](https://img.shields.io/badge/Live_demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://reklama-crm-sandy.vercel.app)
-
-One system for an outdoor-advertising business, replacing a spreadsheet of sites, a phone full of WhatsApp threads and a separate billing package. Every screen knows which days and slots are free, a quote becomes a booking and a booking becomes a GST invoice without anything typed twice, and each of five roles gets a home screen answering only what needs them today.
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-</td></tr>
 </table>
 
 <br>
@@ -227,7 +207,7 @@ One system for an outdoor-advertising business, replacing a spreadsheet of sites
 <table>
 <tr>
 <td><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=python,ts,js,html,css,kotlin,c,powershell" alt="" />
+<td><img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,kotlin,powershell,html,css" alt="" />
 <img src="https://img.shields.io/badge/Redscript-FCEE0A?style=flat-square&logo=cyberpunk2077&logoColor=black" alt="" /></td>
 </tr>
 <tr>
@@ -236,7 +216,9 @@ One system for an outdoor-advertising business, replacing a spreadsheet of sites
 </tr>
 <tr>
 <td><b>Backend&nbsp;&amp;&nbsp;Data</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,postgres,supabase,sqlite" alt="" /></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,postgres,supabase,sqlite,graphql" alt="" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="" />
+<img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" alt="" /></td>
 </tr>
 <tr>
 <td><b>AI&nbsp;/&nbsp;ML</b></td>
@@ -254,22 +236,17 @@ One system for an outdoor-advertising business, replacing a spreadsheet of sites
 </tr>
 <tr>
 <td><b>Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,linux,bash,androidstudio" alt="" /></td>
+<td><img src="https://skillicons.dev/icons?i=git,linux,bash,cmake,androidstudio" alt="" /></td>
 </tr>
 </table>
 
 <br>
 
-## GitHub
+## Currently
 
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=tfthushaar&show_icons=true&theme=tokyonight&hide_border=true&icon_color=7aa2f7&count_private=false" alt="GitHub stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfthushaar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" /></td>
-</tr>
-</table>
+Building [Lekhara](https://github.com/tfthushaar/lekhara) toward its first Bengaluru builders, and shipping [Cyberbane](https://github.com/tfthushaar/CyberBane) against a live Nexus audience. Open to full-time roles and freelance work, and reachable at [thushaarrangan@gmail.com](mailto:thushaarrangan@gmail.com).
 
-<img src="https://streak-stats.demolab.com/?user=tfthushaar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=tfthushaar&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
 <div align="center">
 <br>
