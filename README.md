@@ -1,91 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=190&section=header&text=K%20N%20Thushaar%20Rangan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20%2B%20AI%20Engineer%20%C2%B7%20Bangalore&descAlignY=58&descSize=17" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=190&section=header&text=K%20N%20Thushaar%20Rangan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20%C2%B7%20Bangalore&descAlignY=58&descSize=17" width="100%" alt="" />
 
 <div align="center">
 
+[![Mod downloads](https://img.shields.io/badge/20k%2B_mod_downloads-D98F40?style=for-the-badge&logo=nexusmods&logoColor=white)](https://www.nexusmods.com/cyberpunk2077/mods/35847)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/k-n-thushaar-rangan-4668352300)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thushaarrangan@gmail.com)
 ![Open to](https://img.shields.io/badge/Open_to-Full--time_%26_Freelance-9ECE6A?style=for-the-badge)
 
 </div>
 
-Full-stack and AI engineer. Most of what I build falls into two halves. One is products with a hard domain underneath: I take something like escrow compliance or dated payroll records, model it into a schema, put a tested API over it, build the interface on top, then provision and deploy it. The other is real-time systems, where state has to survive, behaviour has to hold up under play, and there is no official API to build against. Both halves get the same treatment, which is measurement over assertion: held-out evaluation where a model is involved, tests that gate the build, and numbers that trace back to where they came from.
-
-<br>
-
-## Skills
-
-**AI & Machine Learning**
-<br>
-![](https://img.shields.io/badge/Multi--Agent_Systems-7AA2F7?style=flat-square)
-![](https://img.shields.io/badge/LLM_Orchestration-7AA2F7?style=flat-square)
-![](https://img.shields.io/badge/RAG-7AA2F7?style=flat-square)
-![](https://img.shields.io/badge/Prompt_Engineering-7AA2F7?style=flat-square)
-![](https://img.shields.io/badge/Document_AI_%26_Extraction-7AA2F7?style=flat-square)
-![](https://img.shields.io/badge/Model_Evaluation_%26_Benchmarking-7AA2F7?style=flat-square)
-![](https://img.shields.io/badge/Computer_Vision-7AA2F7?style=flat-square)
-![](https://img.shields.io/badge/Geospatial_Analysis-7AA2F7?style=flat-square)
-![](https://img.shields.io/badge/Recommendation_Engines-7AA2F7?style=flat-square)
-![](https://img.shields.io/badge/Constraint--Based_Optimization-7AA2F7?style=flat-square)
-![](https://img.shields.io/badge/Predictive_Modeling-7AA2F7?style=flat-square)
-![](https://img.shields.io/badge/Anomaly_Detection-7AA2F7?style=flat-square)
-![](https://img.shields.io/badge/Statistical_Testing-7AA2F7?style=flat-square)
-![](https://img.shields.io/badge/Data_Analysis-7AA2F7?style=flat-square)
-
-**Backend & Systems**
-<br>
-![](https://img.shields.io/badge/REST_API_Design-BB9AF7?style=flat-square)
-![](https://img.shields.io/badge/GraphQL_APIs-BB9AF7?style=flat-square)
-![](https://img.shields.io/badge/Auth_%26_Authorization-BB9AF7?style=flat-square)
-![](https://img.shields.io/badge/Role--Based_Access_Control-BB9AF7?style=flat-square)
-![](https://img.shields.io/badge/Multi--Tenant_Architecture-BB9AF7?style=flat-square)
-![](https://img.shields.io/badge/Relational_Data_Modeling-BB9AF7?style=flat-square)
-![](https://img.shields.io/badge/Temporal_%26_Audit_Data-BB9AF7?style=flat-square)
-![](https://img.shields.io/badge/State_Persistence_%26_Versioning-BB9AF7?style=flat-square)
-![](https://img.shields.io/badge/Binary_Formats_%26_Integrity-BB9AF7?style=flat-square)
-![](https://img.shields.io/badge/Simulation_%26_Systems_Design-BB9AF7?style=flat-square)
-![](https://img.shields.io/badge/NPC_Behaviour_Design-BB9AF7?style=flat-square)
-![](https://img.shields.io/badge/Schema_Migrations-BB9AF7?style=flat-square)
-![](https://img.shields.io/badge/Data_Ingestion_%26_ETL-BB9AF7?style=flat-square)
-![](https://img.shields.io/badge/Financial_Reconciliation-BB9AF7?style=flat-square)
-![](https://img.shields.io/badge/Real--Time_Systems-BB9AF7?style=flat-square)
-![](https://img.shields.io/badge/Pub%2FSub_Messaging-BB9AF7?style=flat-square)
-![](https://img.shields.io/badge/Background_Jobs-BB9AF7?style=flat-square)
-![](https://img.shields.io/badge/Third--Party_API_Integration-BB9AF7?style=flat-square)
-![](https://img.shields.io/badge/Domain_Modeling-BB9AF7?style=flat-square)
-
-**Infrastructure & DevOps**
-<br>
-![](https://img.shields.io/badge/Infrastructure_as_Code-9ECE6A?style=flat-square)
-![](https://img.shields.io/badge/Configuration_Management-9ECE6A?style=flat-square)
-![](https://img.shields.io/badge/CI%2FCD_Pipelines-9ECE6A?style=flat-square)
-![](https://img.shields.io/badge/Blue--Green_Deployments-9ECE6A?style=flat-square)
-![](https://img.shields.io/badge/Containerization-9ECE6A?style=flat-square)
-![](https://img.shields.io/badge/Cloud_Provisioning-9ECE6A?style=flat-square)
-![](https://img.shields.io/badge/Monitoring_%26_Logging-9ECE6A?style=flat-square)
-![](https://img.shields.io/badge/Edge_%26_Serverless_Deploys-9ECE6A?style=flat-square)
-
-**Security & Quality**
-<br>
-![](https://img.shields.io/badge/Web_App_Security_Testing-F7768E?style=flat-square)
-![](https://img.shields.io/badge/MFA_%26_Session_Security-F7768E?style=flat-square)
-![](https://img.shields.io/badge/Tenant_Data_Isolation-F7768E?style=flat-square)
-![](https://img.shields.io/badge/Audit_Logging_%26_Traceability-F7768E?style=flat-square)
-![](https://img.shields.io/badge/Secret_Scanning-F7768E?style=flat-square)
-![](https://img.shields.io/badge/Incident_Response-F7768E?style=flat-square)
-![](https://img.shields.io/badge/Automated_Test_Suites-F7768E?style=flat-square)
-![](https://img.shields.io/badge/Reproducible_Research-F7768E?style=flat-square)
-![](https://img.shields.io/badge/Accessibility_(WCAG_2.1_AA)-F7768E?style=flat-square)
-
-**Product & Delivery**
-<br>
-![](https://img.shields.io/badge/Mobile_App_Release-E0AF68?style=flat-square)
-![](https://img.shields.io/badge/PWA_Delivery-E0AF68?style=flat-square)
-![](https://img.shields.io/badge/Multi--Platform_Deployment-E0AF68?style=flat-square)
-![](https://img.shields.io/badge/Game_Engine_Modding-E0AF68?style=flat-square)
-![](https://img.shields.io/badge/Release_Engineering-E0AF68?style=flat-square)
-![](https://img.shields.io/badge/Regulatory_%26_Tax_Compliance-E0AF68?style=flat-square)
-![](https://img.shields.io/badge/Localization_(i18n)-E0AF68?style=flat-square)
-![](https://img.shields.io/badge/Technical_Documentation-E0AF68?style=flat-square)
+An avid developer. I like problems that need the whole thing built, and I am comfortable working well outside what I already know: modelling a domain that has real rules in it, putting a tested API over the top, training a model where the data earns one, writing native code against a runtime nobody meant to be extended, and provisioning whatever it all runs on. I would rather ship something and keep it running than leave it at a prototype, and most of what I know came from doing exactly that.
 
 <br>
 
@@ -204,6 +128,83 @@ A private fitness and nutrition app that needs no account and carries no ads. Me
 
 <br>
 
+## Skills
+
+**AI & Machine Learning**
+<br>
+![](https://img.shields.io/badge/Multi--Agent_Systems-7AA2F7?style=flat-square)
+![](https://img.shields.io/badge/LLM_Orchestration-7AA2F7?style=flat-square)
+![](https://img.shields.io/badge/RAG-7AA2F7?style=flat-square)
+![](https://img.shields.io/badge/Prompt_Engineering-7AA2F7?style=flat-square)
+![](https://img.shields.io/badge/Document_AI_%26_Extraction-7AA2F7?style=flat-square)
+![](https://img.shields.io/badge/Model_Evaluation_%26_Benchmarking-7AA2F7?style=flat-square)
+![](https://img.shields.io/badge/Computer_Vision-7AA2F7?style=flat-square)
+![](https://img.shields.io/badge/Geospatial_Analysis-7AA2F7?style=flat-square)
+![](https://img.shields.io/badge/Recommendation_Engines-7AA2F7?style=flat-square)
+![](https://img.shields.io/badge/Constraint--Based_Optimization-7AA2F7?style=flat-square)
+![](https://img.shields.io/badge/Predictive_Modeling-7AA2F7?style=flat-square)
+![](https://img.shields.io/badge/Anomaly_Detection-7AA2F7?style=flat-square)
+![](https://img.shields.io/badge/Statistical_Testing-7AA2F7?style=flat-square)
+![](https://img.shields.io/badge/Data_Analysis-7AA2F7?style=flat-square)
+
+**Backend & Systems**
+<br>
+![](https://img.shields.io/badge/REST_API_Design-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/GraphQL_APIs-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/Auth_%26_Authorization-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/Role--Based_Access_Control-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/Multi--Tenant_Architecture-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/Relational_Data_Modeling-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/Temporal_%26_Audit_Data-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/State_Persistence_%26_Versioning-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/Binary_Formats_%26_Integrity-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/Simulation_%26_Systems_Design-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/NPC_Behaviour_Design-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/Schema_Migrations-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/Data_Ingestion_%26_ETL-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/Financial_Reconciliation-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/Real--Time_Systems-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/Pub%2FSub_Messaging-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/Background_Jobs-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/Third--Party_API_Integration-BB9AF7?style=flat-square)
+![](https://img.shields.io/badge/Domain_Modeling-BB9AF7?style=flat-square)
+
+**Infrastructure & DevOps**
+<br>
+![](https://img.shields.io/badge/Infrastructure_as_Code-9ECE6A?style=flat-square)
+![](https://img.shields.io/badge/Configuration_Management-9ECE6A?style=flat-square)
+![](https://img.shields.io/badge/CI%2FCD_Pipelines-9ECE6A?style=flat-square)
+![](https://img.shields.io/badge/Blue--Green_Deployments-9ECE6A?style=flat-square)
+![](https://img.shields.io/badge/Containerization-9ECE6A?style=flat-square)
+![](https://img.shields.io/badge/Cloud_Provisioning-9ECE6A?style=flat-square)
+![](https://img.shields.io/badge/Monitoring_%26_Logging-9ECE6A?style=flat-square)
+![](https://img.shields.io/badge/Edge_%26_Serverless_Deploys-9ECE6A?style=flat-square)
+
+**Security & Quality**
+<br>
+![](https://img.shields.io/badge/Web_App_Security_Testing-F7768E?style=flat-square)
+![](https://img.shields.io/badge/MFA_%26_Session_Security-F7768E?style=flat-square)
+![](https://img.shields.io/badge/Tenant_Data_Isolation-F7768E?style=flat-square)
+![](https://img.shields.io/badge/Audit_Logging_%26_Traceability-F7768E?style=flat-square)
+![](https://img.shields.io/badge/Secret_Scanning-F7768E?style=flat-square)
+![](https://img.shields.io/badge/Incident_Response-F7768E?style=flat-square)
+![](https://img.shields.io/badge/Automated_Test_Suites-F7768E?style=flat-square)
+![](https://img.shields.io/badge/Reproducible_Research-F7768E?style=flat-square)
+![](https://img.shields.io/badge/Accessibility_(WCAG_2.1_AA)-F7768E?style=flat-square)
+
+**Product & Delivery**
+<br>
+![](https://img.shields.io/badge/Mobile_App_Release-E0AF68?style=flat-square)
+![](https://img.shields.io/badge/PWA_Delivery-E0AF68?style=flat-square)
+![](https://img.shields.io/badge/Multi--Platform_Deployment-E0AF68?style=flat-square)
+![](https://img.shields.io/badge/Game_Engine_Modding-E0AF68?style=flat-square)
+![](https://img.shields.io/badge/Release_Engineering-E0AF68?style=flat-square)
+![](https://img.shields.io/badge/Regulatory_%26_Tax_Compliance-E0AF68?style=flat-square)
+![](https://img.shields.io/badge/Localization_(i18n)-E0AF68?style=flat-square)
+![](https://img.shields.io/badge/Technical_Documentation-E0AF68?style=flat-square)
+
+<br>
+
 ## Tech Stack
 
 <table>
@@ -246,7 +247,7 @@ A private fitness and nutrition app that needs no account and carries no ads. Me
 
 ## Currently
 
-Building [Lekhara](https://github.com/tfthushaar/lekhara) toward its first Bengaluru builders, and shipping [Cyberbane](https://github.com/tfthushaar/CyberBane) against a live Nexus audience. Open to full-time roles and freelance work, and reachable at [thushaarrangan@gmail.com](mailto:thushaarrangan@gmail.com).
+Taking [Lekhara](https://github.com/tfthushaar/lekhara) to its first builders in Bengaluru, and shipping [Cyberbane](https://github.com/tfthushaar/CyberBane) and [Hotswap](https://github.com/tfthushaar/HotSwap) against whatever the Nexus bug reports bring in. Always up for building something with people who care about the thing they are making. Reachable at [thushaarrangan@gmail.com](mailto:thushaarrangan@gmail.com).
 
 <img src="https://streak-stats.demolab.com/?user=tfthushaar&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
