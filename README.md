@@ -24,6 +24,8 @@ Full-stack and AI engineer. Most of what I build falls into two halves. One is p
 ![](https://img.shields.io/badge/Model_Evaluation_%26_Benchmarking-7AA2F7?style=flat-square)
 ![](https://img.shields.io/badge/Computer_Vision-7AA2F7?style=flat-square)
 ![](https://img.shields.io/badge/Geospatial_Analysis-7AA2F7?style=flat-square)
+![](https://img.shields.io/badge/Recommendation_Engines-7AA2F7?style=flat-square)
+![](https://img.shields.io/badge/Constraint--Based_Optimization-7AA2F7?style=flat-square)
 ![](https://img.shields.io/badge/Predictive_Modeling-7AA2F7?style=flat-square)
 ![](https://img.shields.io/badge/Anomaly_Detection-7AA2F7?style=flat-square)
 ![](https://img.shields.io/badge/Statistical_Testing-7AA2F7?style=flat-square)
@@ -94,11 +96,11 @@ Full-stack and AI engineer. Most of what I build falls into two halves. One is p
 
 ### [Cyberbane](https://github.com/tfthushaar/CyberBane)
 [![Nexus](https://img.shields.io/badge/Nexus_Mods-D98F40?style=flat-square&logo=nexusmods&logoColor=white)](https://www.nexusmods.com/cyberpunk2077/mods/35847)
-[![Downloads](https://img.shields.io/badge/Downloads-16k%2B-D98F40?style=flat-square&logo=nexusmods&logoColor=white)](https://www.nexusmods.com/cyberpunk2077/mods/35847)
+[![Downloads](https://img.shields.io/badge/Downloads-20k%2B-D98F40?style=flat-square&logo=nexusmods&logoColor=white)](https://www.nexusmods.com/cyberpunk2077/mods/35847)
 [![Release](https://img.shields.io/badge/v1.6.6-9ECE6A?style=flat-square)](https://github.com/tfthushaar/CyberBane/releases)
 [![Demo](https://img.shields.io/badge/Watch_demo-FCEE0A?style=flat-square&logo=youtube&logoColor=black)](https://github.com/tfthushaar/CyberBane/blob/main/docs/assets/cyberbane.mp4)
 
-A reputation overhaul for Cyberpunk 2077, past 16,000 downloads on Nexus. Renown and dread spread district by district, and reputation travels on witnesses, so leaving nobody alive means the street never learns who did it, and a mask means nobody can place you at all. Wounded enemies run, and anyone who escapes, or who you beat and spared, comes back as a named Rival that climbed the ranks while you were busy and wears the burns or blade marks you left on it. Rivals fill each gang's leader and lieutenant chairs, so killing a leader promotes the next in line. Push a crew far enough and four named enforcers drive over behind the game's own boss bar: a heavy who breaks your guard, a shooter who flushes you out of cover, a blade on a Sandevistan, and a netrunner who takes your weapon off you. The gangs also fight each other and lose turf to their enemies when you keep hurting them, and the city messages you on V's own phone about what it heard, which you can reply to. 1.3 MB of Redscript across 82 files in thirteen subsystems, with one download covering two game versions.
+A reputation overhaul for Cyberpunk 2077, past 20,000 downloads on Nexus. Renown and dread spread district by district, and reputation travels on witnesses, so leaving nobody alive means the street never learns who did it, and a mask means nobody can place you at all. Wounded enemies run, and anyone who escapes, or who you beat and spared, comes back as a named Rival that climbed the ranks while you were busy and wears the burns or blade marks you left on it. Rivals fill each gang's leader and lieutenant chairs, so killing a leader promotes the next in line. Push a crew far enough and four named enforcers drive over behind the game's own boss bar: a heavy who breaks your guard, a shooter who flushes you out of cover, a blade on a Sandevistan, and a netrunner who takes your weapon off you. The gangs also fight each other and lose turf to their enemies when you keep hurting them, and the city messages you on V's own phone about what it heard, which you can reply to. 1.4 MB of Redscript across 86 files in fourteen subsystems, with one download covering two game versions.
 
 ![Redscript](https://img.shields.io/badge/-Redscript-FCEE0A?style=flat-square&logo=cyberpunk2077&logoColor=black)
 ![RED4ext](https://img.shields.io/badge/-RED4ext_%2F_Codeware-1A1B27?style=flat-square)
@@ -109,7 +111,7 @@ A reputation overhaul for Cyberpunk 2077, past 16,000 downloads on Nexus. Renown
 
 ### [Lekhara](https://github.com/tfthushaar/lekhara)
 
-Compliance and money platform for Karnataka real-estate developers, covering everything that sits outside their ERP. It works out what a project is entitled to withdraw from its RERA escrow account, prepares the architect's, engineer's and CA's certificates and checks their figures agree before anything reaches the bank, keeps every K-RERA filing deadline with delay interest accruing against it, and catches tax traps before they become bills, among them the 80% registered-supplier test, development rights on unsold JDA stock, sales priced below guidance value and MSME payments nearing 45 days. Books arrive from Tally through a read-only connector, bank statements and GSTR-2B reconcile against units without ever counting the same rupee twice, and every figure traces back to the document it came from. Ten engines cover escrow, obligations, tax, sales, collections, disputes, handover and the document vault, with each firm's records held apart from every other firm's in the database itself.
+Compliance and money platform for Karnataka real-estate developers, covering everything that sits outside their ERP. It works out what a project is entitled to withdraw from its RERA escrow account, prepares the architect's, engineer's and CA's certificates and checks their figures agree before anything reaches the bank, keeps every K-RERA filing deadline with delay interest accruing against it, and catches tax traps before they become bills, among them the 80% registered-supplier test, development rights on unsold JDA stock, sales priced below guidance value and MSME payments nearing 45 days. Books arrive from Tally through a read-only connector, bank statements and GSTR-2B reconcile against units without ever counting the same rupee twice, and every figure traces back to the document it came from. Nine engines cover escrow, obligations, tax, sales, collections, disputes, handover, money and the document vault, with each firm's records held apart from every other firm's in the database itself.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -163,6 +165,18 @@ An open platform tracking invasive species across six national parks on three co
 </td></tr>
 <tr><td>
 
+### [Hotswap](https://github.com/tfthushaar/HotSwap)
+![Early access](https://img.shields.io/badge/Early_access-E0AF68?style=flat-square)
+
+Keeps five complete builds for V in Cyberpunk 2077 and switches between them from the inventory in one click, covering cyberware, quickhacks, weapons, weapon mods, quick items, perks and attributes, so a quiet netrunner becomes a melee bruiser without a trip to a ripperdoc. A switch replays the exact order a respec would take, blocks saving until it finishes, and if any piece fails to go back on it returns V to the state they started in and says what failed. The half I have not seen done elsewhere is the recommender: ask a slot for suggestions and it assembles five archetypes out of the gear V actually owns at that moment, choosing cyberware by what each piece does and spending limited capacity on the pieces worth it, preferring a silenced pistol over a harder-hitting loud one for a stealth build, moving the best mods owned onto the chosen weapons, then allocating attributes and perks around that gear. A build that cannot work, like a netrunner with no cyberdeck, greys out and says what is missing.
+
+![Redscript](https://img.shields.io/badge/-Redscript-FCEE0A?style=flat-square&logo=cyberpunk2077&logoColor=black)
+![RED4ext](https://img.shields.io/badge/-RED4ext_%2F_Codeware-1A1B27?style=flat-square)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+</td></tr>
+<tr><td>
+
 ### [Engram](https://github.com/tfthushaar/Engram)
 
 Moves a Cyberpunk 2077 save to another machine by reading a sixteen-character code out loud. There is no account and no login, and nothing to find and attach: one person picks a save and gets a code, the other types it in and the save turns up in their load list. Every save carries the mod list it was made with, so both sides see what it expects before anything is written, and the incoming file is checked against hashes the sender recorded, which catches damage or tampering in transit. Built as a C++ RED4ext plugin with a Redscript menu inside the game, plus a standalone executable for when there is no mod installed, no game running, or no network at all.
@@ -176,7 +190,7 @@ Moves a Cyberpunk 2077 save to another machine by reading a sixteen-character co
 <tr><td>
 
 ### [Metakai](https://github.com/tfthushaar/metakai)
-[![Android](https://img.shields.io/badge/Download-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/tfthushaar/metakai/releases/latest)
+[![Android](https://img.shields.io/badge/Download_v1.5.0-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/tfthushaar/metakai/releases/latest)
 [![Web](https://img.shields.io/badge/Web_%26_iOS-7AA2F7?style=flat-square&logo=pwa&logoColor=white)](https://tfthushaar.github.io/metakai/app/)
 
 A private fitness and nutrition app that needs no account and carries no ads. Meals logged in plain words ("2 rotis, 1 katori dal and 150g paneer") become itemised macros, 876 exercises back a workout logger with PR detection, and a goal date is forecast from trend weight instead of daily noise. Works offline, syncs with a watch, and ships as an Android release and a web/iOS app.
@@ -184,18 +198,6 @@ A private fitness and nutrition app that needs no account and carries no ads. Me
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td></tr>
-<tr><td>
-
-### [ADVOCATE](https://github.com/tfthushaar/ADVOCATE)
-[![Live](https://img.shields.io/badge/Live_app-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://advocate-pretrial-simulator.streamlit.app/)
-
-Five coordinated agents run a wrongful-termination case as an adversarial trial: a parser structures the brief, employer and employee agents argue their sides, an IRAC evaluator scores both on a legal rubric, and a gap agent computes a Strategy Vulnerability Index for what one side never rebutted. Supports multi-model comparison and batch validation, with optional RAG grounding over employment-law opinions.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td></tr>
 </table>
