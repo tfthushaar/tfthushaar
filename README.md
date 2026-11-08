@@ -118,45 +118,6 @@ Redscript, PowerShell
 
 ---
 
-## Skills
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-<b>Backend &amp; Distributed Systems</b>
-<br>
-REST and GraphQL API design, relational data modelling, authentication and authorisation (JWT, OAuth2, RBAC), multi-tenant architecture, temporal and audit-trail data, schema migrations, real-time and event-driven services, background jobs, third-party API integration
-
-</td>
-<td valign="top" width="50%">
-
-<b>Machine Learning</b>
-<br>
-Deep learning in PyTorch and from first principles, model evaluation, benchmarking and calibration, time-series forecasting, computer vision, LLM applications (RAG, multi-agent orchestration, local inference), model interpretability, statistical analysis and hypothesis testing
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-<b>Infrastructure &amp; DevOps</b>
-<br>
-Docker and containerisation, CI/CD pipelines with GitHub Actions and Jenkins, infrastructure as code with Terraform and Ansible, cloud and serverless deployment on AWS, Vercel and Cloudflare, self-hosted Linux infrastructure with nginx and Redis, monitoring and logging
-
-</td>
-<td valign="top">
-
-<b>Engineering Practice</b>
-<br>
-Automated test suites and CI quality gates, application security testing, secure session handling and tenant isolation, accessibility to WCAG 2.1 AA, release engineering and semantic versioning, reproducible research, technical writing and documentation
-
-</td>
-</tr>
-</table>
-
----
-
 ## Tech Stack
 
 <table>
@@ -164,7 +125,31 @@ Automated test suites and CI quality gates, application security testing, secure
 <td><code>LANGUAGES</code></td>
 <td>
 
-Python, TypeScript, JavaScript, C++, C, Kotlin, Redscript, PowerShell, Bash, SQL, HTML/CSS
+Python, TypeScript, C++, Redscript, Kotlin, SQL, Bash, PowerShell
+
+</td>
+</tr>
+<tr>
+<td><code>BACKEND</code></td>
+<td>
+
+FastAPI, Next.js, Node.js, ERPNext / Frappe, SQLAlchemy, Drizzle, GraphQL, Redis, nginx
+
+</td>
+</tr>
+<tr>
+<td><code>DATA</code></td>
+<td>
+
+PostgreSQL, PostGIS, MariaDB, SQLite, Supabase
+
+</td>
+</tr>
+<tr>
+<td><code>ML</code></td>
+<td>
+
+PyTorch, NumPy, pandas, scikit-learn, OpenCV, Ollama, LangGraph
 
 </td>
 </tr>
@@ -172,43 +157,21 @@ Python, TypeScript, JavaScript, C++, C, Kotlin, Redscript, PowerShell, Bash, SQL
 <td><code>FRONTEND</code></td>
 <td>
 
-React, Next.js, Vite, Tailwind, shadcn/ui, TanStack Query, Three.js, Recharts
+React, Tailwind, shadcn/ui, TanStack Query, Three.js
 
 </td>
 </tr>
 <tr>
-<td><code>BACKEND &amp; DATA</code></td>
+<td><code>INFRA</code></td>
 <td>
 
-FastAPI, Flask, Node.js, ERPNext / Frappe, PostgreSQL, PostGIS, MariaDB, SQLite, Redis, Supabase, SQLAlchemy, Drizzle, Alembic, GraphQL, nginx
-
-</td>
-</tr>
-<tr>
-<td><code>AI / ML</code></td>
-<td>
-
-PyTorch, NumPy, pandas, scikit-learn, OpenCV, LangGraph, Ollama, Jupyter, Streamlit
-
-</td>
-</tr>
-<tr>
-<td><code>CLOUD &amp; DEVOPS</code></td>
-<td>
-
-Docker, Terraform, Ansible, Jenkins, GitHub Actions, AWS, Vercel, Cloudflare, Render, Supervisor
-
-</td>
-</tr>
-<tr>
-<td><code>TOOLS</code></td>
-<td>
-
-Git, Linux, CMake, pytest, Vitest, ruff, Android Studio
+Docker, GitHub Actions, AWS, Vercel, Cloudflare, Linux, pytest, Vitest
 
 </td>
 </tr>
 </table>
+
+Also used, on projects not listed above: Terraform, Ansible, Jenkins, Flask, Streamlit, Jupyter.
 
 ---
 
