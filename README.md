@@ -124,16 +124,16 @@ Redscript, PowerShell
 <tr>
 <td valign="top" width="50%">
 
-<b>AI &amp; Machine Learning</b>
+<b>Backend &amp; Distributed Systems</b>
 <br>
-Multi-Agent Systems, LLM Orchestration, RAG, Prompt Engineering, Document AI & Extraction, Local LLM Deployment, Neural Network Internals, Time-Series Forecasting, Model Evaluation & Benchmarking, Model Interpretability, Computer Vision, Geospatial Analysis, Recommendation Engines, Constraint-Based Optimization, Predictive Modeling, Anomaly Detection, Statistical Testing, Data Analysis
+REST and GraphQL API design, relational data modelling, authentication and authorisation (JWT, OAuth2, RBAC), multi-tenant architecture, temporal and audit-trail data, schema migrations, real-time and event-driven services, background jobs, third-party API integration
 
 </td>
 <td valign="top" width="50%">
 
-<b>Backend &amp; Systems</b>
+<b>Machine Learning</b>
 <br>
-REST API Design, GraphQL APIs, Auth & Authorization, Role-Based Access Control, Multi-Tenant Architecture, Relational Data Modeling, Temporal & Audit Data, State Persistence & Versioning, Binary Formats & Integrity, Simulation & Systems Design, NPC Behaviour Design, Schema Migrations, Data Ingestion & ETL, Financial Reconciliation, Real-Time Systems, Pub/Sub Messaging, Background Jobs, Third-Party API Integration, Domain Modeling, ERP Customisation
+Deep learning in PyTorch and from first principles, model evaluation, benchmarking and calibration, time-series forecasting, computer vision, LLM applications (RAG, multi-agent orchestration, local inference), model interpretability, statistical analysis and hypothesis testing
 
 </td>
 </tr>
@@ -142,18 +142,14 @@ REST API Design, GraphQL APIs, Auth & Authorization, Role-Based Access Control, 
 
 <b>Infrastructure &amp; DevOps</b>
 <br>
-Infrastructure as Code, Configuration Management, CI/CD Pipelines, Blue-Green Deployments, Containerization, Cloud Provisioning, Monitoring & Logging, Edge & Serverless Deploys, Self-Hosted Infrastructure, Reverse Proxy & TLS Tunnels
-
-<b>Security &amp; Quality</b>
-<br>
-Web App Security Testing, MFA & Session Security, Tenant Data Isolation, Audit Logging & Traceability, Secret Scanning, Incident Response, Automated Test Suites, Reproducible Research, Accessibility (WCAG 2.1 AA)
+Docker and containerisation, CI/CD pipelines with GitHub Actions and Jenkins, infrastructure as code with Terraform and Ansible, cloud and serverless deployment on AWS, Vercel and Cloudflare, self-hosted Linux infrastructure with nginx and Redis, monitoring and logging
 
 </td>
 <td valign="top">
 
-<b>Product &amp; Delivery</b>
+<b>Engineering Practice</b>
 <br>
-Mobile App Release, PWA Delivery, Multi-Platform Deployment, Game Engine Modding, Release Engineering, Regulatory & Tax Compliance, Localization (i18n), Technical Documentation
+Automated test suites and CI quality gates, application security testing, secure session handling and tenant isolation, accessibility to WCAG 2.1 AA, release engineering and semantic versioning, reproducible research, technical writing and documentation
 
 </td>
 </tr>
@@ -221,3 +217,9 @@ Git, Linux, CMake, pytest, Vitest, ruff, Android Studio
 Taking [Lekhara](https://github.com/tfthushaar/lekhara) to its first builders in Bengaluru, and shipping [Cyberbane](https://github.com/tfthushaar/CyberBane) and [Hotswap](https://github.com/tfthushaar/HotSwap) against whatever the Nexus bug reports bring in. Always up for building something with people who care about the thing they are making.
 
 **[thushaarrangan@gmail.com](mailto:thushaarrangan@gmail.com)**
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=tfthushaar&hide_border=true&background=0D0D0D&stroke=FF003C&ring=FF003C&fire=FF003C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF003C&sideLabels=FFFFFF&dates=8B8B8B&excludeDaysLabel=8B8B8B" alt="Contribution streak" />
+
+</div>
