@@ -8,7 +8,7 @@
 
 </div>
 
-An avid developer who builds complete systems end to end: backend services and the data models beneath them, machine learning from first principles through to honest evaluation, real-time and native code, frontend interfaces, and the infrastructure and release process around it all. Equally comfortable designing a schema, implementing an algorithm from a paper, or tracing a production bug, and quick to pick up an unfamiliar language, runtime or domain. I work from measured results, and I ship and maintain what I build.
+Full-stack and applied-AI engineer building finance and ERP systems for Indian businesses, with production deployments. The domain is the hard part: RERA escrow entitlement, GST and TDS exposure, Indian payroll and income tax, multi-company ledgers, Tally reconciliation. I model it into a schema, put a tested API over it, build the interface people actually use, and run the infrastructure it sits on. I also build real-time systems and machine learning from first principles, which accounts for the rest of the work below.
 
 ---
 
@@ -125,23 +125,15 @@ Redscript, PowerShell
 <td><code>LANGUAGES</code></td>
 <td>
 
-Python, TypeScript, C++, Redscript, Kotlin, SQL, Bash, PowerShell
+Python, TypeScript, C++, Kotlin, Redscript, SQL
 
 </td>
 </tr>
 <tr>
-<td><code>BACKEND</code></td>
+<td><code>BACKEND &amp; DATA</code></td>
 <td>
 
-FastAPI, Next.js, Node.js, ERPNext / Frappe, SQLAlchemy, Drizzle, GraphQL, Redis, nginx
-
-</td>
-</tr>
-<tr>
-<td><code>DATA</code></td>
-<td>
-
-PostgreSQL, PostGIS, MariaDB, SQLite, Supabase
+FastAPI, Next.js, ERPNext / Frappe, PostgreSQL, MariaDB, Redis, SQLAlchemy, nginx
 
 </td>
 </tr>
@@ -149,15 +141,7 @@ PostgreSQL, PostGIS, MariaDB, SQLite, Supabase
 <td><code>ML</code></td>
 <td>
 
-PyTorch, NumPy, pandas, scikit-learn, OpenCV, Ollama, LangGraph
-
-</td>
-</tr>
-<tr>
-<td><code>FRONTEND</code></td>
-<td>
-
-React, Tailwind, shadcn/ui, TanStack Query, Three.js
+PyTorch, NumPy, pandas, scikit-learn, Ollama
 
 </td>
 </tr>
@@ -165,13 +149,13 @@ React, Tailwind, shadcn/ui, TanStack Query, Three.js
 <td><code>INFRA</code></td>
 <td>
 
-Docker, GitHub Actions, AWS, Vercel, Cloudflare, Linux, pytest, Vitest
+Docker, GitHub Actions, AWS, Vercel, Cloudflare, Linux
 
 </td>
 </tr>
 </table>
 
-Also used, on projects not listed above: Terraform, Ansible, Jenkins, Flask, Streamlit, Jupyter.
+Also used: React, Tailwind, GraphQL, PostGIS, Supabase, Terraform, Ansible, Jenkins, Flask, Streamlit.
 
 ---
 
