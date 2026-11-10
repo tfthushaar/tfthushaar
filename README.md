@@ -18,9 +18,9 @@ Full-stack and applied-AI engineer building finance and ERP systems for Indian b
 <tr><td width="100%">
 
 ### `01` &nbsp; [Cyberbane](https://github.com/tfthushaar/CyberBane)
-**20k+ downloads** | [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/35847) | v1.7.6 | [demo video](https://github.com/tfthushaar/CyberBane/blob/main/docs/assets/cyberbane.mp4)
+**20k+ downloads** | [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/35847) | v1.8.2 | [demo video](https://github.com/tfthushaar/CyberBane/blob/main/docs/assets/cyberbane.mp4)
 
-A reputation system where Night City watches, remembers and retaliates. Reputation travels on witnesses, so killing everyone means nobody learns who did it; whoever escapes returns as a named rival that climbed the gang hierarchy while you were away and wears the burns you left on them, until a crew stops sending squads and drives four named enforcers at you instead. 1.4 MB of Redscript across 88 files, one download covering two game versions.
+A reputation system where Night City watches, remembers and retaliates. Reputation travels on witnesses, so killing everyone means nobody learns who did it; whoever escapes returns as a named rival that climbed the gang hierarchy while you were away and wears the burns you left on them, until a crew stops sending squads and drives four named enforcers at you instead. 1.55 MB of Redscript across 92 files, one download covering two game versions.
 
 Redscript, RED4ext / Codeware, PowerShell
 
@@ -87,31 +87,31 @@ Python, FastAPI, PostGIS, GraphQL, React
 <tr><td>
 
 ### `08` &nbsp; [Hotswap](https://github.com/tfthushaar/HotSwap)
-[Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/37634) | v1.0.1
+[Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/37634) | v1.1.0
 
-Five complete builds for V, swapped from the inventory in one click, covering cyberware, quickhacks, weapons, mods, perks and attributes. A switch replays a respec in the right order and puts V back intact if any piece fails to go on. Ask a slot for suggestions and it assembles five archetypes out of the gear you actually own, spending limited cyberware capacity where it counts and taking the silenced pistol over the louder one for a stealth build.
+Five complete builds for V, swapped from the inventory in one click, covering cyberware, quickhacks, weapons, mods, perks and attributes. A switch replays a respec in the right order and puts V back intact if any piece fails to go on. Ask a slot for suggestions and it assembles five archetypes out of the gear you actually own, spending limited cyberware capacity where it counts and taking the silenced pistol over the louder one for a stealth build. One source tree ships to two game versions through a build step that rewrites it into the older layout.
 
 Redscript, RED4ext / Codeware, PowerShell
 
 </td></tr>
 <tr><td>
 
-### `09` &nbsp; [Metakai](https://github.com/tfthushaar/metakai)
+### `09` &nbsp; [Iconic Arms](https://github.com/tfthushaar/Mantis-Blades-Byakko)
+[Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/36332) | v1.8.0 | [demo video](https://youtu.be/HXAbBZSZKQc)
+
+Sixteen iconic melee weapons' real stats, selectable per cyberarm across Mantis Blades and Gorilla Arms. Each profile is read out of the game's own records when you equip the arm rather than hardcoded, with a hand-written fallback and a diagnostic key that tells you which of the two you are looking at, and the iconic's actual ability is lifted off the hidden mod the game fits to it instead of being reimplemented. Several effects track live state: Scalpel while a Sandevistan runs, Jinchu-Maru and Cocktail Stick under Optical Camo, the Byakko's burst on a kill, Sihil's window on a dash. Every speed effect is clamped under the animation ceiling so the light-attack chain keeps alternating arms.
+
+Redscript, PowerShell
+
+</td></tr>
+<tr><td>
+
+### `10` &nbsp; [Metakai](https://github.com/tfthushaar/metakai)
 [Android v1.5.0](https://github.com/tfthushaar/metakai/releases/latest) | [web &amp; iOS](https://tfthushaar.github.io/metakai/app/)
 
 A fitness and nutrition app with no account and no ads. Type "2 rotis, 1 katori dal and 150g paneer" and get itemised macros, 876 exercises back a logger with PR detection, and your goal date is forecast from trend weight instead of daily noise. Works offline, syncs with a watch, ships for Android, web and iOS.
 
 TypeScript, Kotlin, Python
-
-</td></tr>
-<tr><td>
-
-### `10` &nbsp; [Byakko](https://github.com/tfthushaar/Mantis-Blades-Byakko)
-[Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/36332) | v1.0.2 | [demo video](https://youtu.be/HXAbBZSZKQc)
-
-Mantis Blades rebuilt around the thing that makes Wakako's katana the best-feeling weapon in the game, which is its loop: a kill pays you back immediately, so you chain into the next target and keep going. Here a kill grants a ten-second attack-speed burst and removes the stutter between light combos, and killing again restarts it, so a good fight never falls out of the window.
-
-Redscript, PowerShell
 
 </td></tr>
 </table>
