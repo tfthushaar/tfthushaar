@@ -4,7 +4,7 @@
 
 **[LinkedIn](https://linkedin.com/in/k-n-thushaar-rangan-4668352300)** &nbsp;|&nbsp; **[thushaarrangan@gmail.com](mailto:thushaarrangan@gmail.com)** &nbsp;|&nbsp; open to full-time &amp; freelance
 
-**20,000+ downloads** &nbsp;|&nbsp; **3 mods shipped on Nexus** &nbsp;|&nbsp; **5 deployments live in production**
+**30,000+ downloads** &nbsp;|&nbsp; **3 mods shipped on Nexus** &nbsp;|&nbsp; **5 deployments live in production**
 
 </div>
 
@@ -18,17 +18,17 @@ Full-stack and applied-AI engineer building finance and ERP systems for Indian b
 <tr><td width="100%">
 
 ### `01` &nbsp; [Cyberbane](https://github.com/tfthushaar/CyberBane)
-**20k+ downloads** | [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/35847) | v1.8.2 | [demo video](https://github.com/tfthushaar/CyberBane/blob/main/docs/assets/cyberbane.mp4)
+**30k+ downloads** | [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/35847) | v1.9.5 | [demo video](https://github.com/tfthushaar/CyberBane/blob/main/docs/assets/cyberbane.mp4)
 
-A reputation system where Night City watches, remembers and retaliates. Reputation travels on witnesses, so killing everyone means nobody learns who did it; whoever escapes returns as a named rival that climbed the gang hierarchy while you were away and wears the burns you left on them, until a crew stops sending squads and drives four named enforcers at you instead. 1.55 MB of Redscript across 92 files, one download covering two game versions.
+A reputation system where Night City watches, remembers and retaliates. Reputation travels on witnesses, so killing everyone means nobody learns who did it; whoever escapes returns as a named rival that climbed the gang hierarchy while you were away and wears the burns you left on them, until a crew stops sending squads and drives four named enforcers at you instead. 1.86 MB of Redscript across 96 files, one download covering two game versions.
 
 Redscript, RED4ext / Codeware, PowerShell
 
 </td></tr>
 <tr><td>
 
-### `02` &nbsp; [Vera ERP](https://github.com/KernelLex/hr-client-erp), *major contributor*
-**live in production** | [veraenterprises.in](https://veraenterprises.in)
+### `02` &nbsp; Vera ERP, *major contributor*
+**live in production** | [veraenterprises.in](https://veraenterprises.in) | *source private*
 
 A multi-company ERP running three legal entities off one database, every record company-scoped behind a switcher. Built as a custom Frappe app extending ERPNext and HRMS without touching core, with the Frappe desk sealed off so staff only ever meet the React SPA: hiring and a candidate pipeline, leave and expense approvals, live attendance from Jibble, a CRM pipeline with stage approvals, and a quotation studio that turns site measurements into a priced document. A local Ollama model runs the assistant, insights and Tally enrichment, so nothing leaves the box. Self-hosted on bare metal behind nginx, gunicorn and a Cloudflare tunnel.
 
@@ -87,7 +87,7 @@ Python, FastAPI, PostGIS, GraphQL, React
 <tr><td>
 
 ### `08` &nbsp; [Hotswap](https://github.com/tfthushaar/HotSwap)
-[Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/37634) | v1.1.0
+[Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/37634) | v1.2.1
 
 Five complete builds for V, swapped from the inventory in one click, covering cyberware, quickhacks, weapons, mods, perks and attributes. A switch replays a respec in the right order and puts V back intact if any piece fails to go on. Ask a slot for suggestions and it assembles five archetypes out of the gear you actually own, spending limited cyberware capacity where it counts and taking the silenced pistol over the louder one for a stealth build. One source tree ships to two game versions through a build step that rewrites it into the older layout.
 
@@ -97,7 +97,7 @@ Redscript, RED4ext / Codeware, PowerShell
 <tr><td>
 
 ### `09` &nbsp; [Iconic Arms](https://github.com/tfthushaar/Mantis-Blades-Byakko)
-[Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/36332) | v1.8.0 | [demo video](https://youtu.be/HXAbBZSZKQc)
+[Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/36332) | v1.8.1 | [demo video](https://youtu.be/HXAbBZSZKQc)
 
 Sixteen iconic melee weapons' real stats, selectable per cyberarm across Mantis Blades and Gorilla Arms. Each profile is read out of the game's own records when you equip the arm rather than hardcoded, with a hand-written fallback and a diagnostic key that tells you which of the two you are looking at, and the iconic's actual ability is lifted off the hidden mod the game fits to it instead of being reimplemented. Several effects track live state: Scalpel while a Sandevistan runs, Jinchu-Maru and Cocktail Stick under Optical Camo, the Byakko's burst on a kill, Sihil's window on a dash. Every speed effect is clamped under the animation ceiling so the light-attack chain keeps alternating arms.
 
