@@ -4,7 +4,7 @@
 
 **[LinkedIn](https://linkedin.com/in/k-n-thushaar-rangan-4668352300)** &nbsp;|&nbsp; **[thushaarrangan@gmail.com](mailto:thushaarrangan@gmail.com)** &nbsp;|&nbsp; open to full-time &amp; freelance
 
-**32,000+ downloads** &nbsp;|&nbsp; **3 mods shipped on Nexus** &nbsp;|&nbsp; **5 deployments live in production**
+**37,841 downloads** &nbsp;|&nbsp; **3 mods shipped on Nexus** &nbsp;|&nbsp; **5 deployments live in production**
 
 </div>
 
@@ -18,9 +18,9 @@ Full-stack and applied-AI engineer building finance and ERP systems for Indian b
 <tr><td width="100%">
 
 ### `01` &nbsp; [Cyberbane](https://github.com/tfthushaar/CyberBane)
-**32k+ downloads** | [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/35847) | v2.0.0 | [demo video](https://github.com/tfthushaar/CyberBane/blob/main/docs/assets/cyberbane.mp4)
+**37,841 downloads** | [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/35847) | v2.5.6 | [demo video](https://github.com/tfthushaar/CyberBane/blob/main/docs/assets/cyberbane.mp4)
 
-A reputation system where Night City notices what you do and answers back. Reputation travels on witnesses, so killing everyone means nobody learns who did it, and whoever escapes returns as a named Rival carrying a rank, the scars from how you hurt them, a catchphrase and their own bodyguards, until a crew stops sending squads and drives its apex squad at you instead. Version 2.0 gave the street a voice: walk up to anyone empty-handed and hold a real conversation, haggle over the price of a Rival's hiding place, turn a downed ganger into an informant who gives up a Rival's fatal flaw, rob a gang's bagman or crash a sit-down between two gangs at war. 2.1 MB of Redscript across 100 files, one download covering two game versions.
+A reputation system that has grown into a faction simulation. Reputation travels on witnesses, so killing everyone means nobody learns who did it, and whoever escapes returns as a named Rival with a rank, the scars from how you hurt them and bodyguards of their own. Each gang runs a war chest and manpower earned daily from the streets it holds, so you can back a side, lie to set two gangs on each other, haggle a peace price down, or hold a district yourself once you are a Legend. Walk up to anyone empty-handed and talk, and a Rival you spare twice can be recruited into a crew with seats, ranks, loyalty and a weekly cut. 3 MB of Redscript across 125 files, one download covering two game versions.
 
 Redscript, RED4ext / Codeware, PowerShell
 
