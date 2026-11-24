@@ -18,9 +18,9 @@ Full-stack and applied-AI engineer building finance and ERP systems for Indian b
 <tr><td width="100%">
 
 ### `01` &nbsp; [Cyberbane](https://github.com/tfthushaar/CyberBane)
-**47,473 downloads** | [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/35847) | v2.7.6
+**47,473 downloads** | [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/35847) | v2.7.8
 
-A reputation system that grew into a faction simulation, and then into running a gang of your own. Reputation travels on witnesses, so killing everyone means nobody learns who did it, and whoever escapes returns as a named Rival with a rank, the scars from how you hurt them and bodyguards of their own. Every gang holds turf that earns it money daily, so you can back a side, lie to set two gangs on each other, or haggle a peace price down. Rivals you spare twice can be recruited into a crew you arm, train and name, who guard your building, run jobs, and go to war for a district that then flies your colours and pays you a daily tax. 4.4 MB of Redscript across 160 files, with a public API for other mods, compatibility layers for five of them, and one download covering two game versions.
+A reputation system that grew into a faction simulation, and then into running a gang of your own. Reputation travels on witnesses, so killing everyone means nobody learns who did it, and whoever escapes returns as a named Rival with a rank, the scars from how you hurt them and bodyguards of their own. Every gang holds turf earning it money daily, so you can back a side, set two gangs on each other with a lie, or haggle a peace price down, and anyone you walk up to answers in the game's own voices, with V's replies cut from the shipped story audio. Rivals you spare twice can be recruited into a crew you arm, train and name, who guard your building, run jobs, and go to war for a district that then flies your colours and pays you a daily tax. 4.5 MB of Redscript across 168 files, a public API other mods build on, compatibility with nine of them, and one download covering two game versions.
 
 Redscript, RED4ext / Codeware, PowerShell
 
