@@ -4,7 +4,7 @@
 
 **[LinkedIn](https://linkedin.com/in/k-n-thushaar-rangan-4668352300)** &nbsp;|&nbsp; **[thushaarrangan@gmail.com](mailto:thushaarrangan@gmail.com)** &nbsp;|&nbsp; open to full-time &amp; freelance
 
-**37,841 downloads** &nbsp;|&nbsp; **3 mods shipped on Nexus** &nbsp;|&nbsp; **5 deployments live in production**
+**47,473 downloads** &nbsp;|&nbsp; **3 mods shipped on Nexus** &nbsp;|&nbsp; **5 deployments live in production**
 
 </div>
 
@@ -18,9 +18,9 @@ Full-stack and applied-AI engineer building finance and ERP systems for Indian b
 <tr><td width="100%">
 
 ### `01` &nbsp; [Cyberbane](https://github.com/tfthushaar/CyberBane)
-**37,841 downloads** | [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/35847) | v2.5.6
+**47,473 downloads** | [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/35847) | v2.7.6
 
-A reputation system that has grown into a faction simulation. Reputation travels on witnesses, so killing everyone means nobody learns who did it, and whoever escapes returns as a named Rival with a rank, the scars from how you hurt them and bodyguards of their own. Each gang runs a war chest and manpower earned daily from the streets it holds, so you can back a side, lie to set two gangs on each other, haggle a peace price down, or hold a district yourself once you are a Legend. Walk up to anyone empty-handed and talk, and a Rival you spare twice can be recruited into a crew with seats, ranks, loyalty and a weekly cut. 3 MB of Redscript across 125 files, one download covering two game versions.
+A reputation system that grew into a faction simulation, and then into running a gang of your own. Reputation travels on witnesses, so killing everyone means nobody learns who did it, and whoever escapes returns as a named Rival with a rank, the scars from how you hurt them and bodyguards of their own. Every gang holds turf that earns it money daily, so you can back a side, lie to set two gangs on each other, or haggle a peace price down. Rivals you spare twice can be recruited into a crew you arm, train and name, who guard your building, run jobs, and go to war for a district that then flies your colours and pays you a daily tax. 4.4 MB of Redscript across 160 files, with a public API for other mods, compatibility layers for five of them, and one download covering two game versions.
 
 Redscript, RED4ext / Codeware, PowerShell
 
