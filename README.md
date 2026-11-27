@@ -4,7 +4,7 @@
 
 **[LinkedIn](https://linkedin.com/in/k-n-thushaar-rangan-4668352300)** &nbsp;|&nbsp; **[thushaarrangan@gmail.com](mailto:thushaarrangan@gmail.com)** &nbsp;|&nbsp; open to full-time &amp; freelance
 
-**47,473 downloads** &nbsp;|&nbsp; **3 mods shipped on Nexus** &nbsp;|&nbsp; **5 deployments live in production**
+**52,517 downloads** &nbsp;|&nbsp; **3 mods shipped on Nexus** &nbsp;|&nbsp; **5 deployments live in production**
 
 </div>
 
@@ -18,9 +18,9 @@ Full-stack and applied-AI engineer building finance and ERP systems for Indian b
 <tr><td width="100%">
 
 ### `01` &nbsp; [Cyberbane](https://github.com/tfthushaar/CyberBane)
-**47,473 downloads** | [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/35847) | v2.7.8
+**52,517 downloads** | [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/35847) | v2.8.2
 
-A reputation system that grew into a faction simulation, and then into running a gang of your own. Reputation travels on witnesses, so killing everyone means nobody learns who did it, and whoever escapes returns as a named Rival with a rank, the scars from how you hurt them and bodyguards of their own. Every gang holds turf earning it money daily, so you can back a side, set two gangs on each other with a lie, or haggle a peace price down, and anyone you walk up to answers in the game's own voices, with V's replies cut from the shipped story audio. Rivals you spare twice can be recruited into a crew you arm, train and name, who guard your building, run jobs, and go to war for a district that then flies your colours and pays you a daily tax. 4.5 MB of Redscript across 168 files, a public API other mods build on, compatibility with nine of them, and one download covering two game versions.
+A reputation system that grew into a faction simulation, then into a platform other mods build on. Reputation travels on witnesses and each district makes up its own mind about you, so killing everyone means nobody learns who did it, and whoever escapes returns as a named Rival with a rank, the scars from how you hurt them and bodyguards of their own. Every gang holds turf earning it money daily, so you can back a side, set two gangs on each other with a lie, or buy your way out, and anyone you walk up to answers in the game's own voices, with V's replies cut from the shipped story audio. Rivals you spare twice can be recruited into a crew you arm, train and name, who guard your building, run jobs, and go to war for a district that then flies your colours and pays you a daily tax. 4.1 MB of Redscript across 178 files, twelve mods supported, two game versions from one download, and a versioned API that add-ons compile against instead of its internals, guarded so they degrade to nothing against a missing or older base. Two expansions are in development on it: the Badlands and the Nomad Nations, and the corporations as institutions inside the city.
 
 Redscript, RED4ext / Codeware, PowerShell
 
